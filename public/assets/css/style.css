@@ -1,0 +1,20 @@
+
+
+footer {
+    background-color: #353A3F;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 8px;
+}
+
+.img-thumbnail {
+    margin-top: 10px;
+}
+
+p, h1 {
+    text-align: center;
+    padding: 5px;
+}
